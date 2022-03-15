@@ -3,7 +3,7 @@
 # Hey there, my name is Tamanna Kapoor... 
 
 
-## I'm an inquistively pensive philomath with an inexplicable fondness for programming!!
+##   
 
 👩🚀 I'm an incoming ML Engineering Intern at the DRDO 
 
