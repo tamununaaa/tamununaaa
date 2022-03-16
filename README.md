@@ -2,8 +2,10 @@
 
 # Hey there, my name is Tamanna Kapoor... 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2367B1F7&size=18&vCenter=true&width=400&height=14&lines=a.k.a+tamununaaa+or+perhaps+cheeesecake)][portfolio] 
 
-##   
+
+
 
 👩🚀 I'm an incoming ML Engineering Intern at the DRDO 
 
@@ -17,6 +19,7 @@
 [<img align="left" alt="Tamanna's LinkedIn" width="30px" href="https://www.linkedin.com/in/tamannakapoor/" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Tamanna's Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannakapoor144@gmail.com)
+
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,4 +42,4 @@
 
 [instagram]: https://www.instagram.com/tamununaaa/
 [linkedin]: https://www.linkedin.com/in/tamannakapoor/
-[portfolio]: https://www.canva.com/design/DAE0-E7b9vU/b916M5KS8q_ARi5PocqtpQ/view?utm_content=DAE0-E7b9vU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+[portfolio]: https://www.canva.com/design/DAE7E-rPkVw/bepDZCJP8Dwqewwj-y9Oow/view?utm_content=DAE7E-rPkVw&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
