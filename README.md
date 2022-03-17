@@ -19,6 +19,7 @@
 [<img align="left" alt="Tamanna's LinkedIn" width="30px" href="https://www.linkedin.com/in/tamannakapoor/" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Tamanna's Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannakapoor144@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 
 
 ### Languages and Tools:
@@ -39,7 +40,7 @@
 
 
 
-
+[medium]: https://tamununaaa.medium.com/
 [instagram]: https://www.instagram.com/tamununaaa/
 [linkedin]: https://www.linkedin.com/in/tamannakapoor/
 [portfolio]: https://www.canva.com/design/DAE7E-rPkVw/bepDZCJP8Dwqewwj-y9Oow/view?utm_content=DAE7E-rPkVw&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
