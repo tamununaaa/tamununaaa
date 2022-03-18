@@ -2,7 +2,7 @@
 
 # Hey there, my name is Tamanna Kapoor... 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ff7daf&size=18&vCenter=true&width=400&height=14&lines=a.k.a+tamununaaa+or+perhaps+cheeesecake)][portfolio] 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ff7daf&size=18&vCenter=true&width=400&height=14&lines=a.k.a+tamununaaa+or+perhaps+cheesecake)][portfolio] 
 
 
 
