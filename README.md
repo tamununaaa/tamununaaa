@@ -1,6 +1,7 @@
 <img alt="banner" src='https://media-exp1.licdn.com/dms/image/C4D16AQFv8ZBzKXuZgA/profile-displaybackgroundimage-shrink_350_1400/0/1647369627211?e=1652918400&v=beta&t=7_S2XjPa0mfrcBSDkFcQic8OsEWSOgEVKmsuYK-sNzY'/>
 
 # Hey there, my name is Tamanna Kapoor... 
+### An ENGINEER by degree, a DEVELOPER at heart, and a DESIGNER by passion
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ff7daf&size=18&vCenter=true&width=400&height=14&lines=a.k.a+tamununaaa+or+perhaps+cheesecake)][portfolio] 
 
