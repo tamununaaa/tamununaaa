@@ -12,9 +12,11 @@
 
 📱🧠 I am intruiged by the fields of Android Development, Data Analytics, and Machine Learning
 
+:basecampy:🖌️ I love creating digital caricatures and playing video games like GTA-V and Valorant
+
 🍰🐝 I am very fond of cheesecakes and love beezzZZ... 
 
-:basecampy:🖌️ Fun facts: I love creating digital caricatures and playing video games like GTAV and Valorant
+💡✨ Fun facts: Cheesecakes might take over to be the world's favorite dessert, you never know
 
 ### Connect with me:
 [<img align="left" alt="Tamanna's LinkedIn" width="30px" href="https://www.linkedin.com/in/tamannakapoor/" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
