@@ -12,7 +12,7 @@
 
 📱🧠 I am intruiged by the fields of Android Development, Data Analytics, and Machine Learning
 
-:basecampy:🖌️ I love creating digital caricatures and playing video games like GTA-V and Valorant
+:basecampy:🖌️ I love creating digital caricatures and playing video games like Grand Theft Auto and Valorant
 
 🍰🐝 I am very fond of cheesecakes and love beezzZZ... 
 
