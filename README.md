@@ -8,7 +8,9 @@
 
 
 
-👩🚀 I'm an incoming ML Engineering Intern at the DRDO 
+👩🚀 ML Engineering Intern at DRDO
+
+👯❤️ DOO at Superposition Bhopal
 
 📱🧠 I am intruiged by the fields of Android Development, Data Analytics, and Machine Learning
 
