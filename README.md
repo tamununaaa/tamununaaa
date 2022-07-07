@@ -48,4 +48,4 @@
 [medium]: https://tamununaaa.medium.com/
 [instagram]: https://www.instagram.com/tamununaaa/
 [linkedin]: https://www.linkedin.com/in/tamannakapoor/
-[portfolio]: https://www.canva.com/design/DAE7E-rPkVw/bepDZCJP8Dwqewwj-y9Oow/view?utm_content=DAE7E-rPkVw&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+[portfolio]:
