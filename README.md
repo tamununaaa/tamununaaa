@@ -1,22 +1,17 @@
-<img alt="banner" src='https://media-exp1.licdn.com/dms/image/C4D16AQFv8ZBzKXuZgA/profile-displaybackgroundimage-shrink_350_1400/0/1647369627211?e=1652918400&v=beta&t=7_S2XjPa0mfrcBSDkFcQic8OsEWSOgEVKmsuYK-sNzY'/>
+![GITHUB](https://user-images.githubusercontent.com/89573580/181595303-45835b10-07f7-4319-a2f6-fae20c7f87e2.png)
 
 # Hey there, my name is Tamanna Kapoor... 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ff7daf&size=18&vCenter=true&width=400&height=14&lines=a.k.a+tamununaaa+or+perhaps+cheesecake)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2367B1F7&size=16&vCenter=true&width=200&height=14&lines=Tamununaaaaaaaa)][portfolio] 
 
 
 
+📱🧠 I am intruiged by the fields of Android Development and Data Analytics
 
-👩🚀 ML Engineering Intern at DRDO
+:basecampy:🖌️ I love creating digital caricatures and playing video games like GTA and Valorant
 
-👯❤️ DOO at Superposition Bhopal
-
-📱🧠 I am intruiged by the fields of Android Development, Data Analytics, and Machine Learning
-
-:basecampy:🖌️ I love creating digital caricatures and playing video games like Grand Theft Auto and Valorant
-
-🍰🐝 I am very fond of cheesecakes and love beezzZZ... 
+🍰🥟 I am very fond of cheesecakes and dumplings!
 
 💡✨ Fun facts: Cheesecakes might take over to be the world's favorite dessert, you never know!
 
@@ -31,21 +26,25 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+
+![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
 [medium]: https://tamununaaa.medium.com/
 [instagram]: https://www.instagram.com/tamununaaa/
 [linkedin]: https://www.linkedin.com/in/tamannakapoor/
+[portfolio]: https://www.canva.com/design/DAE7E-rPkVw/bepDZCJP8Dwqewwj-y9Oow/view?utm_content=DAE7E-rPkVw&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
 
