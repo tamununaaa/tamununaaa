@@ -2,11 +2,6 @@
 
 # Hey there, my name is Tamanna Kapoor... 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2367B1F7&size=16&vCenter=true&width=200&height=14&lines=Tamununaaaaaaaa)][portfolio] 
-
-
-
 📱🧠 I am intruiged by the fields of Data Analytics and Machine Learning.
 
 :basecampy:🖌️ I love creating digital caricatures and playing video games like GTA and Valorant
