@@ -1,6 +1,7 @@
 ![GITHUB](https://user-images.githubusercontent.com/89573580/181595303-45835b10-07f7-4319-a2f6-fae20c7f87e2.png)
 
 # Hey there, my name is Tamanna Kapoor... 
+#### I am currently working as a Trainee Programmer Analyst at IDrive Software India Pvt. Ltd.
 
 📱🧠 I am intruiged by the fields of Data Analytics and Machine Learning.
 
