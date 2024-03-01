@@ -6,7 +6,7 @@
 
 
 
-📱🧠 I am intruiged by the fields of Data Analytics and Machine Learning.
+📱🧠 I am intruiged by the fields of Machine Learning and Web3.
 
 :basecampy:🖌️ I love creating digital caricatures and playing video games like GTA and Valorant
 
