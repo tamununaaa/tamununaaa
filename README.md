@@ -1,4 +1,4 @@
-![GITHUB](https://user-images.githubusercontent.com/89573580/181595303-45835b10-07f7-4319-a2f6-fae20c7f87e2.png)
+![GITHUB](https://github.com/tamununaaa/tamununaaa/blob/main/GITHUB.png)
 
 # Hey there, my name is Tamanna Kapoor... 
 #### I am a Programmer Analyst at IDrive Software India Pvt. Ltd.
