@@ -1,12 +1,12 @@
 ![GITHUB](https://user-images.githubusercontent.com/89573580/181595303-45835b10-07f7-4319-a2f6-fae20c7f87e2.png)
 
 # Hey there, my name is Tamanna Kapoor... 
-#### I am currently working as a Trainee Programmer Analyst at IDrive Software India Pvt. Ltd.
+#### I am a Programmer Analyst at IDrive Software India Pvt. Ltd.
 
 
 
 
-📱🧠 I am intruiged by the fields of Machine Learning and Web3.
+📱🧠 I am intrigued by the fields of Machine Learning and Web3.
 
 :basecampy:🖌️ I love creating digital caricatures and playing video games like GTA and Valorant
 
@@ -16,13 +16,11 @@
 
 ### Connect with me:
 [<img align="left" alt="Tamanna's LinkedIn" width="30px" href="https://www.linkedin.com/in/tamannakapoor/" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Tamanna's Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannakapoor144@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
-
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -49,9 +47,13 @@
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![VBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-[medium]: https://tamununaaa.medium.com/
-[instagram]: https://www.instagram.com/tamununaaa/
+
+[medium]: https://tamununaaa.medium.com/![GITHUB](https://github.com/user-attachments/assets/203c87f6-c1cb-4fc8-b506-50c46d29c09d)
+
 [linkedin]: https://www.linkedin.com/in/tamannakapoor/
 [portfolio]: https://www.canva.com/design/DAE7E-rPkVw/bepDZCJP8Dwqewwj-y9Oow/view?utm_content=DAE7E-rPkVw&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
 
